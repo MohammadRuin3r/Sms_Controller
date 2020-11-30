@@ -1,0 +1,16 @@
+<svg id="Simcard" xmlns="http://www.w3.org/2000/svg" width="81" height="81" viewBox="0 0 81 81">
+  <circle id="Ellipse_30" data-name="Ellipse 30" cx="40.5" cy="40.5" r="40.5" fill="#e2e2e2"/>
+  <g id="surface1" transform="translate(22 15)">
+    <path id="Path_124" data-name="Path 124" d="M137.693,317.793h-5.279a3.519,3.519,0,0,1,0,7.039h10.558v5.279h5.279V317.793Zm0,0" transform="translate(-119.216 -286.118)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_125" data-name="Path 125" d="M79.449,388.414h5.279v5.279H79.449Zm0,0" transform="translate(-71.53 -349.701)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_126" data-name="Path 126" d="M132.414,388.414h5.279v5.279h-5.279Zm0,0" transform="translate(-119.216 -349.701)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_127" data-name="Path 127" d="M185.379,388.414h5.279v5.279h-5.279Zm0,0" transform="translate(-166.902 -349.701)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_128" data-name="Path 128" d="M79.449,264.828h5.279v5.279H79.449Zm0,0" transform="translate(-71.53 -238.433)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_129" data-name="Path 129" d="M132.414,264.828h5.279v5.279h-5.279Zm0,0" transform="translate(-119.216 -238.433)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_130" data-name="Path 130" d="M185.379,264.828h5.279v5.279h-5.279Zm0,0" transform="translate(-166.902 -238.433)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_131" data-name="Path 131" d="M238.344,264.828h5.279v5.279h-5.279Zm0,0" transform="translate(-214.588 -238.433)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_132" data-name="Path 132" d="M88.247,321.312a3.519,3.519,0,0,0-3.519-3.519H79.449v7.039h5.279A3.519,3.519,0,0,0,88.247,321.312Zm0,0" transform="translate(-71.53 -286.118)" fill="#fff" stroke="#707070" stroke-width="0.25"/>
+    <path id="Path_133" data-name="Path 133" d="M13.2,43.992H7.919V26.4H18.477V0H3.519A3.519,3.519,0,0,0,0,3.519V47.512a3.519,3.519,0,0,0,3.519,3.519H18.477V43.992Zm0,0" fill="#ffb655"/>
+    <path id="Path_134" data-name="Path 134" d="M195.057,0h-9.678V26.4h10.558v17.6H185.379v7.039h14.958a3.519,3.519,0,0,0,3.519-3.519V8.8Zm0,0" transform="translate(-166.902)" fill="#fcaa3e"/>
+  </g>
+</svg>
