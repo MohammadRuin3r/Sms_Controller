@@ -44,7 +44,7 @@ class _MainScreenState extends State<MainScreen> {
     states.clear();
     Future.delayed(Duration(seconds: 1), () async {
       var phoneResult = await _phoneDB.getPhoneNumber();
-      phone = phoneResult[0].phone;
+      if (phoneResult.length > 0) phone = phoneResult[0].phone;
       finalNames = await _changeNameDB.getNames();
       if (finalNames.length == 0) _changeNameDB.createDatabase();
       finalStates = await _stateDB.getStatus();
